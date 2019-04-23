@@ -1,5 +1,5 @@
 # terra temp dir
-./terraform
+.terraform/
 
 # tf state files
 terraform.tfstate
