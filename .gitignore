@@ -2,6 +2,8 @@
 .terraform/
 
 # tf state files
+.terraform
+.terraform.*
 terraform.tfstate
 terraform.tfstate.*
 
