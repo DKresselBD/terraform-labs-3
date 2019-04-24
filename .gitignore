@@ -3,4 +3,4 @@
 
 # tf state files
 terraform.tfstate
-terraform.tfstate.backup
+terraform.tfstate.*
