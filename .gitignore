@@ -4,3 +4,6 @@
 # tf state files
 terraform.tfstate
 terraform.tfstate.*
+
+# commit
+commit.bat
